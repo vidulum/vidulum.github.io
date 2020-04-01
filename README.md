@@ -1,5 +1,6 @@
-# vidulum.github.io
-# About
+# Vidulum (https://vidulum.app)
+
+## About
 About Vidulum and Frequently Asked Questions
 
 ## What is Vidulum?
